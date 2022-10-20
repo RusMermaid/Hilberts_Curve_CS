@@ -12,9 +12,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Hilberts_Curve_CS" expanded="True">
-            <Node name="Hilberts_Curve_CS" expanded="True">
-              <Node name="Hilberts_Curve.cs" selected="True" />
-            </Node>
+            <Node name="Hilberts_Curve_CS" expanded="True" />
           </Node>
         </State>
       </Pad>
