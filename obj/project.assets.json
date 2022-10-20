@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/HilbertsCurve_CS.csproj",
-      "projectName": "HilbertsCurve_CS",
-      "projectPath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/HilbertsCurve_CS.csproj",
+      "projectUniqueName": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Hilberts_Curve_CS/Hilberts_Curve_CS.csproj",
+      "projectName": "Hilberts_Curve_CS",
+      "projectPath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Hilberts_Curve_CS/Hilberts_Curve_CS.csproj",
       "packagesPath": "/Users/rus_mermaid/.nuget/packages/",
-      "outputPath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/",
+      "outputPath": "/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/Hilberts_Curve_CS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rus_mermaid/.nuget/NuGet/NuGet.Config"

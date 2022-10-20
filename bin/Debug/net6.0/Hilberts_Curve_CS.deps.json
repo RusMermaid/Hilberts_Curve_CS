@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "HilbertsCurve_CS/1.0.0": {
+      "Hilberts_Curve_CS/1.0.0": {
         "runtime": {
-          "HilbertsCurve_CS.dll": {}
+          "Hilberts_Curve_CS.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "HilbertsCurve_CS/1.0.0": {
+    "Hilberts_Curve_CS/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
