@@ -1,0 +1,12 @@
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/bin/Debug/net6.0/HilbertsCurve_CS.deps.json
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/bin/Debug/net6.0/HilbertsCurve_CS.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/bin/Debug/net6.0/HilbertsCurve_CS.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.csproj.AssemblyReference.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.AssemblyInfoInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.AssemblyInfo.cs
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.csproj.CoreCompileInputs.cache
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/refint/HilbertsCurve_CS.dll
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/HilbertsCurve_CS.pdb
+/Users/rus_mermaid/Desktop/Hard_Drive_SSD/Macbook_ProM1_2022/CP_projects/HilbertsCurve_CS/HilbertsCurve_CS/obj/Debug/net6.0/ref/HilbertsCurve_CS.dll
