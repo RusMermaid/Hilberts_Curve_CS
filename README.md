@@ -7,7 +7,7 @@ This README file is made for the Python version.
 All code is similar to the C# version however the folowing are different:
 * ``dimention`` -- the number of dimensions (must be > 0) in C#
 * ``iterator`` -- the number of iterations used in constructing the Hilbert curve (must be > 0) in C#
-* Also, since this project was made before Python 3.11.0, no ``Iterable`` library and/or datatypes are used in the script.
+* Also, since this project was made before Python 3.11.0, no ``Iterable`` library and/or datatypes are not used in the script.
 * They are here to help just to understand the code. In C#, ``Iterable`` are replaced with ``List`` as you have to select datatypes upfront.
 
 ============
