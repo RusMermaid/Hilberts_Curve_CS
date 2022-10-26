@@ -32,9 +32,7 @@ discrete distances along the Hilbert curve (indexed from 0 to
 Quickstart
 ==========
 
-Install the package with pip,
-
-.. code-block:: bash
+Install the package with pip (this partis irrelevent for C#, but the way to use the library is similar),
 
   pip install hilbertcurve
 
